@@ -30,16 +30,29 @@ para a consulta climática de um certa cidade passada na API.
 - Teste de integração
 
 
-## Como Executar
+## Como Executar Sem Docker
 
 - Clonar repositório git
 ```bash
 git clone 
 ```
-- Executar a aplicação:
+- Executar a aplicação sem docker:
 ```bash
 ./mvnw spring-boot:run
 ```
+
+## Como Executar Com Docker
+
+- Clonar repositório git
+```bash
+git clone 
+```
+- Executar a aplicação pelo docker:
+```bash
+ docker build -t cityweather .
+ docker run -p 8080:8080 cityweather
+```
+
 
 ## API Endpoints
 

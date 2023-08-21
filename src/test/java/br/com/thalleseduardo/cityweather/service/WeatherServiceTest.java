@@ -1,7 +1,6 @@
 package br.com.thalleseduardo.cityweather.service;
 
 import br.com.thalleseduardo.cityweather.dto.WeatherDTO;
-import br.com.thalleseduardo.cityweather.service.WeatherService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
