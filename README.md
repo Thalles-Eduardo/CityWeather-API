@@ -4,7 +4,9 @@
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257E5&labelColor=000000" alt="License" />
+ <img src="https://github.com/Thalles-Eduardo/CityWeather-API-Spring-Boot/actions/workflows/maven.yml/badge.svg" alt="License" />
 </p>
+
 
 O projeto foi implementado visando a utilização de API de terceiro, neste caso foi utilizado a API da [OpenWeatherMap](https://openweathermap.org/api)
 para a consulta climática de um certa cidade passada na API.
