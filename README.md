@@ -17,6 +17,7 @@ para a consulta climática de um certa cidade passada na API.
 - [Spring Security](https://spring.io/projects/spring-security)
 - [Swagger](https://swagger.io/)
 - [RestTemplate](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html)
+- [Docker](https://www.docker.com)
 
 
 ## Práticas adotadas
@@ -28,6 +29,7 @@ para a consulta climática de um certa cidade passada na API.
 - Consultar em API externa
 - Teste unitário
 - Teste de integração
+- Dockernização
 
 
 ## Como Executar Sem Docker
