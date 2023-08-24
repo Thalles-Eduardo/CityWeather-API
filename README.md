@@ -4,7 +4,9 @@
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257E5&labelColor=000000" alt="License" />
+ <img src="https://github.com/Thalles-Eduardo/CityWeather-API-Spring-Boot/actions/workflows/maven.yml/badge.svg" alt="License" />
 </p>
+
 
 O projeto foi implementado visando a utilização de API de terceiro, neste caso foi utilizado a API da [OpenWeatherMap](https://openweathermap.org/api)
 para a consulta climática de um certa cidade passada na API.
@@ -36,7 +38,7 @@ para a consulta climática de um certa cidade passada na API.
 
 - Clonar repositório git
 ```bash
-git clone 
+git clone https://github.com/Thalles-Eduardo/CityWeather-API
 ```
 - Executar a aplicação sem docker:
 ```bash
@@ -47,7 +49,7 @@ git clone
 
 - Clonar repositório git
 ```bash
-git clone 
+git clone https://github.com/Thalles-Eduardo/CityWeather-API
 ```
 - Executar a aplicação pelo docker:
 ```bash
@@ -58,10 +60,11 @@ git clone
 
 ## API Endpoints
 
-Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta [Postman](https://www.postman.com/downloads/) ou pelo [Swagger](http://localhost:8080/swagger-ui/index.html).
+Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta [Postman](https://www.postman.com/downloads/) ou pode ser feito pelo [Swagger](http://localhost:8080/swagger-ui/index.html).
 
 - Pesquisar por cidade
 
+![Pesquisar por cidade](https://github.com/Thalles-Eduardo/CityWeather-API/assets/69612509/f3350b18-f160-413a-9991-3b0da78a1b4d)
 
 
 # Author
