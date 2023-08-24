@@ -11,6 +11,18 @@
 O projeto foi implementado visando a utilização de API de terceiro, neste caso foi utilizado a API da [OpenWeatherMap](https://openweathermap.org/api)
 para a consulta climática de um certa cidade passada na API.
 
+## Observação
+
+É necessário criar uma conta no site [OpenWeatherMap](https://openweathermap.org/api) para obter a "API KEY" que será incluída no "application.properties" da aplicação.
+ Segue o vídeo abaixo.
+
+
+
+https://github.com/Thalles-Eduardo/CityWeather-API-Spring-Boot/assets/69612509/b592bba2-b411-468b-859b-6514d635115e
+
+
+
+
 
 ## Tecnologias
 
